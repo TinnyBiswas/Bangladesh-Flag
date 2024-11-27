@@ -13,8 +13,8 @@
 
 /* flag */
 .flag{
-    width: 500px;
-    height: 300px;
+    width: 600px;
+    height: 400px;
     background: green;
     position: relative;
     transform: rotatey(0deg);
@@ -24,8 +24,8 @@
 .flag::after{
     position: absolute;
     content: "";
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     background: red;
     border-radius: 50%;
     top: 50%;
